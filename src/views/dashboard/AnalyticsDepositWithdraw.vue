@@ -14,7 +14,7 @@ const deposits = [
   {
     title: 'Gumroad Account',
     subtitle: 'Sell UI Kit',
-    amount: '+$4,650',
+    amount: '+$4,000',
     logo: gumroad,
   },
   {
